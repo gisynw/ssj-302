@@ -12,4 +12,4 @@ I am a Ph.D. Candidate in the [Department of Geospatial Information Sciences](ht
 - 2022–now &emsp; M.S. in Computer Science. [University of Texas at Dallas](https://www.binghamton.edu/geography/), Texas, USA
 - 2017–2019 &emsp; M.A. in Geography. [Binghamton University (SUNY)](https://www.binghamton.edu/geography/), New York, USA
 - 2013–2017 &emsp; B.S. in GIScience. [Yunnan University](http://www.srees.ynu.edu.cn/english.htm), Yunnan, China
->>>>>>> dbec95969b4e1fb174e025be49b94a9a4cbc3a5a
+
