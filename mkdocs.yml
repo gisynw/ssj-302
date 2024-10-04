@@ -92,12 +92,12 @@ plugins:
 nav:
     - Home: index.md
     - Syllabus:
-      - Syllabus Fall 2024: "Content/PythonProgrammingFall2024.pdf"
+      - Syllabus Fall 2024: "Content/Fall2024_syllabus.ipynb"
     - Softwares:
       - Visual Studio Code: "software/Visual-Studio-Code.ipynb"
       - ArcGIS Pro: "software/ArcGISPro.ipynb"
     - Lectures:
-      - Week 1 Lecture: "Lectures/Week01IntroPy_Lecture.pdf"
+      - Week 1 Lecture: "Lectures/Week01Intro_Lecture.ipynb"
       - Week 2 Lecture: "Lectures/Week02PyFdMetal.ipynb"
       - Week 3 Lecture: "Lectures/Week03Fundamental02.ipynb"
       - Week 4 Lecture: "Lectures/Week04_Pandas.ipynb"
