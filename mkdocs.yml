@@ -92,7 +92,7 @@ plugins:
 nav:
     - Home: index.md
     - Syllabus:
-      - Syllabus Fall 2024: "Content/PythonProgrammingFall2024.ipynb"
+      - Syllabus Fall 2024: "Content/PythonProgrammingFall2024.pdf"
     - Softwares:
       - Anaconda: "software/Anaconda.ipynb"
       - Visual Studio Code: "software/Visual-Studio-Code.ipynb"
