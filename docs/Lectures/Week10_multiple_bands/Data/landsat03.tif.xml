@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20241025</CreaDate><CreaTime>14465000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CompositeBands" Date="20241025" Time="144650">CompositeBands landsat02c1;landsat02c2;landsat02c3;landsat02c4;landsat02c5;landsat02c6;landsat02c7 D:\ssj-302\docs\Lectures\Week10_multiple_bands\Data\landsat03.tif</Process></lineage></DataProperties></Esri></metadata>
