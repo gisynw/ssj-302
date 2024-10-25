@@ -104,6 +104,7 @@ nav:
       - Week 5 Lecture: "Lectures/Week05_Arcpy.ipynb"
       - Week 6 Lecture: "Lectures/Week06_visualization/Week06_visualization_student.ipynb"
       - Week 8 Lecture: "Lectures/Week08_Arcpy_Student.ipynb"
+      - Week 9 Lecture: "Lectures/Week09_raster_instructor.ipynb"
     - Demo:
       - Week 1 Demo: "Demo/Week01_Python_Intro.ipynb"
       - Week 6 Demo: "Demo/Week06_visualization_Demo.ipynb"
