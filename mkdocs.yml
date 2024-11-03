@@ -106,6 +106,7 @@ nav:
       - Week 8 Lecture: "Lectures/Week08_Arcpy_Student.ipynb"
       - Week 9 Lecture: "Lectures/Week09_Geopandas_Raster/Week09_raster_Instructor.ipynb"
       - Week 10 Lecture: "Lectures/Week10_multiple_bands/Week10_instructor.ipynb"
+      - Week 11 Lecture: "Lectures/Week11_CreatingCustom_Tools/scripts/Week11_custom_tool.ipynb"
 
     - Demo:
       - Week 1 Demo: "Demo/Week01_Python_Intro.ipynb"
@@ -116,4 +117,5 @@ nav:
       - Lab 03: "Labs/Lab03_student.ipynb"
       - Lab 04: "Labs/Lab04_student.ipynb"
       - Lab 05: "Labs/Lab05/Lab05_student.ipynb"
+      - Lab 08: "Labs/Lab08/Lab08_Student.ipynb"
  
