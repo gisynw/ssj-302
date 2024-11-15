@@ -107,6 +107,7 @@ nav:
       - Week 9 Raster: "Lectures/Week09_Geopandas_Raster/Week09_raster_Instructor.ipynb"
       - Week 10 Raster Part 2: "Lectures/Week10_multiple_bands/Week10_instructor.ipynb"
       - Week 11 Custom Tool in ArcGIS Pro: "Lectures/Week11_CreatingCustom_Tools/scripts/Week11_custom_tool.ipynb"
+      - Week 12 geemap in python: "Lectures/Week12/geemap.ipynb"
 
     - Demo:
       - Week 1 Demo: "Demo/Week01_Python_Intro.ipynb"
