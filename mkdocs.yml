@@ -108,6 +108,7 @@ nav:
       - Week 10 Raster Part 2: "Lectures/Week10_multiple_bands/Week10_instructor.ipynb"
       - Week 11 Custom Tool in ArcGIS Pro: "Lectures/Week11_CreatingCustom_Tools/scripts/Week11_custom_tool.ipynb"
       - Week 12 geemap in python: "Lectures/Week12/geemap.ipynb"
+      - Week 13 version control: "Lectures/Week13/week13.ipynb"
 
     - Demo:
       - Week 1 Demo: "Demo/Week01_Python_Intro.ipynb"
@@ -119,4 +120,7 @@ nav:
       - Lab 04: "Labs/Lab04_student.ipynb"
       - Lab 05: "Labs/Lab05/Lab05_student.ipynb"
       - Lab 08: "Labs/Lab08/Lab08_Student.ipynb"
+      - Lab 09: "Labs/Lab09/Lab09.ipynb"
+      - Lab 10: "Labs/Lab10/Lab10.pdf"
+      - Lab 11: "Labs/Lab11/Lab11.pdf"
  
